@@ -1,4 +1,9 @@
-# PORTAFILIO DE EJERCICIOS DEL 1 AL 3  en GNU/Linux
+Carnet: rc23104
+Nombre: Wilson Stanley Ramirez Capacho
+Asignatura: Diseño y Estructura de Computadoras
+Ciclo: I/2025
+
+# PORTAFILIO DE GUIA DE EJERCICIOS EN ENSAMBLADOR DEL 1 AL 3 EN GNU/Linux
 
 Este repositorio contiene tres programas escritos en lenguaje ensamblador utilizando la sintaxis NASM, como parte de una actividad práctica orientada a aplicar los conocimientos básicos de operaciones aritméticas con distintos tamaños de registro (8, 16 y 32 bits).
 
