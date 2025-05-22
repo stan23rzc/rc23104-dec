@@ -1,7 +1,7 @@
-## Carnet: rc23104
-Nombre: Wilson Stanley Ramirez Capacho
-Asignatura: Diseño y Estructura de Computadoras
-Ciclo: I/2025
+**Carnet**: rc23104  
+**Nombre**: Wilson Stanley Ramirez Capacho 
+**Asignatura**: Diseño y Estructura de Computadoras  
+**Ciclo**: I/2025  
 
 # PORTAFILIO DE GUIA DE EJERCICIOS EN ENSAMBLADOR DEL 1 AL 3 EN GNU/Linux
 
