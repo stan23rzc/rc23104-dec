@@ -51,5 +51,15 @@ ld -m elf_i386 multiplicacion.o -o multiplicacion
 nasm -f elf32 division.asm -o division.o
 ld -m elf_i386 division.o -o division
 
+### Ejecucion
+
+```bash
+./resta
+./multiplicacion
+./division
+
+
+
+
 
 
