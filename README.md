@@ -1,15 +1,14 @@
-**UNIVERSIDAD DE EL SALVADOR**
-**Facultad Multidisciplinaria De Occidente**
-**Departamento de Ingeniería y Arquitectura**
+**Universidad de El Salvador**  
+**Facultad Multidisciplinaria de Occidente**  
+**Departamento de Ingeniería y Arquitectura**  
 **Ingeniería en Desarrollo de Software**
 
-**Carnet**: rc23104  
-**Nombre**: Wilson Stanley Ramirez Capacho
+- **Carnet:** rc23104  
+- **Nombre:** Wilson Stanley Ramírez Capacho  
+- **Asignatura:** Diseño y Estructura de Computadoras  
+- **Ciclo:** I/2025  
 
-**Asignatura**: Diseño y Estructura de Computadoras  
-**Ciclo**: I/2025  
-
-# PORTAFoLIO DE GUIA DE EJERCICIOS EN ENSAMBLADOR DEL 1 AL 3 EN GNU/Linux
+# PORTAFOLIO DE GUIA DE EJERCICIOS EN ENSAMBLADOR DEL 1 AL 3 EN GNU/Linux
 
 Este repositorio contiene tres programas escritos en lenguaje ensamblador utilizando la sintaxis NASM, como parte de una actividad práctica orientada a aplicar los conocimientos básicos de operaciones aritméticas con distintos tamaños de registro (8, 16 y 32 bits).
 
@@ -51,3 +50,6 @@ ld -m elf_i386 multiplicacion.o -o multiplicacion
 
 nasm -f elf32 division.asm -o division.o
 ld -m elf_i386 division.o -o division
+
+
+
