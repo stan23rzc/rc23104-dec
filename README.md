@@ -1,7 +1,7 @@
-**UNIVERSIDAD DE EL SALVADOR
-Facultad Multidisciplinaria De Occidente
-Departamento de Ingeniería y Arquitectura
-Ingeniería en Desarrollo de Software**
+**UNIVERSIDAD DE EL SALVADOR**
+**Facultad Multidisciplinaria De Occidente**
+**Departamento de Ingeniería y Arquitectura**
+**Ingeniería en Desarrollo de Software**
 
 **Carnet**: rc23104  
 **Nombre**: Wilson Stanley Ramirez Capacho
